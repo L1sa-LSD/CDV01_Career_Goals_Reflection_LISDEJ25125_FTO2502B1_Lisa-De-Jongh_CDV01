@@ -1,58 +1,37 @@
 
 # Career Goals Reflection Template
 
-### Introduction to the Template
-
-This "Career Goals Reflection" template is designed to assist you in articulating and structuring your thoughts about your career aspirations. By using this template, you can clearly define your goals, understand your motivations, and outline the steps you plan to take to achieve these goals.
-
-### Instructions for Using the Template:
-
-- Take your time to thoughtfully respond to each section.
-- Be as specific and detailed as possible in your responses.
-- Remember, this is a living document. Revisit and update it regularly as your goals and circumstances evolve.
-- Use the insights gained from this reflection to guide your decision-making and actions in your professional development.
-
-By completing this reflection, you will gain a clearer understanding of your career aspirations and the steps needed to achieve them. This document can serve as a roadmap and a source of motivation as you progress in your professional journey.
-
 ### Personal Information
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Name:Lisa Shanice De Jongh**
+- **Date:14 March**
+- **Current Role/Position: Student**
+- **Field of Interest: Sodtware Development and Cybersecurity**
 
 ### Part 1: Self-Assessment Reflection
 
 1. **Skills Analysis**:
-    
-    - List your current skills and areas of expertise.
-    - Identify skills you need to develop or improve.
-2. **Interests and Values**:
-    
-    - Describe your key interests related to your career.
-    - What values are important to you in a work environment?
+
+1. I'm just starting out as a software developer, but I'm determined to learn and become a pro in this area of work. I begin to learn on how to apply my knowledge hence that software development is mostly application work than book knowledge. I understand the basics of coding such as HTML and CSS however my understanding needs to expand to where I can independantly create more than basic codes but websites and apps that people can interact with which will allow revolution to grow
+
+2. I am enthusiastic about building useful applications, creative problem solving, financial growth, and remote work in the software development industry.  I value a well-paying job with prospects for financial success and a comfortable lifestyle.  I value a flexible and remote work option that allows me to work from anywhere and manage my own schedule.  I also value job security and financial stability, which ensures that I can meet thmy personal and financial objectives.
 
 ### Part 2: Career Exploration Insights
 
 1. **Industries and Roles Explored**:
     
-    - List the industries or roles you have researched.
-    - Note any particular areas that piqued your interest.
+In the world of cybersecurity, there are crucial roles dedicated to protecting data, networks, and systems from online threats. Some key positions include CISO, Incident Responder, Security Architect, Security Engineer, SOC Analyst, Security Analyst, and Penetration Tester. These professionals monitor networks, spot potential threats, design secure systems, manage firewalls, mitigate risks, and spearhead cybersecurity initiatives which is interesting because of the mysteries behind hacking into websites or personal infortmation
 2. **Alignment with Personal Profile**:
     
-    - Reflect on how these industries/roles align with your skills, interests, and values.
-    - Identify any gaps or areas for further exploration.
+Cyber Security aligns with my personality because of the thrill and mystery with cyber security. As an indiviual who enoys finding solutions and using my brain to u=its full capacity cyber security will be entertaining. Cybersecurity includes solving complex puzzles and identifying hidden threats, which can be quite mysterious.
 
 ### Part 3: SMART Career Goals
 
-1. **Short-term Goals** (Next 1-2 years):
-    
-    - List your specific, measurable, achievable, relevant, and time-bound goals.
-    - Explain the rationale behind each goal.
+1. **Short-term Goals** (Next 1-2 years)
+   I plan to learn HTML and CSS and JavaScript for 3-6 months to help me grasp an understanding on how the Web works which will take me closer to my software devlopment goal. I then can enroll in a cybersecurity fundamentals course (6-9 months) which will enhance my cyber sercurity goal and with the help of learning to code, this will make the coursemore easier and once I have created s stable background I can build two full-stack projects (9-12 months) to gain hands-on experience and apply my knowledge in real-world scenarios. 
+   
 2. **Long-term Goals** (3-5 years and beyond):
-    
-    - Outline your long-term career aspirations.
-    - Describe how these align with your interests and skills.
+    As the months progress, my knowledge wiill increase and i will obtain multiple certificates which will help me to find a sucessful job where i am able to sustain my lifestyle.
 
 ### Part 4: Action Plan
 
