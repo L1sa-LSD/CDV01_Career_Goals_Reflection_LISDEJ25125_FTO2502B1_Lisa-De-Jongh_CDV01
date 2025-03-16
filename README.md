@@ -36,23 +36,22 @@ Cyber Security aligns with my personality because of the thrill and mystery with
 ### Part 4: Action Plan
 
 1. **Steps to Achieve Short-term Goals**:
-    
-    - Detail specific actions or steps needed to achieve each short-term goal.
-    - Include any resources or support required.
-2. **Preparation for Long-term Goals**:
-    
-    - Describe the preparations or groundwork necessary for your long-term aspirations.
-    - Consider additional skills, experiences, or qualifications needed.
+•I will build the foundation by mastering coding languages through online courses and coding exercises which will allow me to obtain certificates.
+•As I gain knowledge I will work on real world projects like building a web app and writing basic security scripts to gain hands on experience.
+•To stay updated I will follow cybersecurity blogs and join online communities 
+•Finally I will apply for internships and entry level jobs to gain industry experience and make sure I keep my resume and LinkedIn profile up to date to show my progress 
+
+3. **Preparation for Long-term Goals**:
+   As the years go by I can start analyzing on how new generations evolve with technology and learning on how adjust to the new technology by keeping up-to-date with the new changes and continuing learning new things and learn how to upgrade and strengthen the current technology and create something evolutionary.
+   
 
 ### Part 5: Reflection on Challenges and Opportunities
 
 1. **Anticipated Challenges**:
-    
-    - Identify potential obstacles or challenges in reaching your goals.
-    - Consider strategies to overcome these challenges.
+    I struggle with information overload, complicated subjects, a lack of practical expertise, and maintaining motivation when I'm studying about cybersecurity and software development.  I'll divide my learning into manageable portions and concentrate on one item at a time in order to get past this.  I'll seek assistance from study groups, mentors, or internet forums if I'm having trouble with a subject.  I'll work on projects, complete CTF challenges, and contribute to open source initiatives in order to gain practical experience.  I'll create goals, monitor my progress, and remind myself why I started because it can be difficult to stay motivated.  My secret to success will be perseverance and consistency.
+
 2. **Opportunities for Growth**:
-    
-    - Highlight any opportunities you can leverage for career growth.
-    - Include networking, mentorship, or educational opportunities.
+There are plenty of chances to grow as a young software development and cyber security expert.  As I work on projects and improve my analytical skills, I am able to learn new programming languages and technologies.  As technology rapidly evolves such as cloud computing, AI, and the Internet of Things, I can focus on emerging themes that are critical for developing innovative software and protecting digital systems.  Through connection with industry experts, certification classes, and online groups, I can find several chances for mentorship, collaboration, and professional development.  Overall, pursuing these chances not only improves my technical skills, but also positions me to have a good impact in our technologically driven world.
+
 
 
